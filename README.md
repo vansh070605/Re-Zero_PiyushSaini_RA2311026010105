@@ -1,10 +1,11 @@
 # Re-Zero_PiyushSaini_RA2311026010105
 
+TEAM NAME:
 Re-Zero
 
 TEAM MEMBERS DETAILS:
 
-Team Leader Details:
+Team Leader :
 
 Piyush Saini 
 RA2311026010105
